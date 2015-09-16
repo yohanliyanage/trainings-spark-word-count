@@ -1,0 +1,17 @@
+.gradle
+**/build/
+**/dist/
+**/generated/*
+**/out/
+*.ipr
+*.iml
+*.iws
+.idea
+**/.DS_Store
+**/*.log
+**/*.log.*
+**/node_modules/
+**/bower_modules/
+**/.sass-cache/
+**/target
+**/build-web
